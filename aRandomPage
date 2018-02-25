@@ -1,0 +1,25 @@
+<body>
+<h1 class="text-primary text-center">Sarah Bernardt<br><h1>
+<h3 class="text-primary text-center">1844-1923</h3>
+<h2 class="text-warning text-center">The queen of the pose and the princess of the gesture</h2> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sarah_Bernhardt_by_F%C3%A9lix_Nadar_2.jpg/269px-Sarah_Bernhardt_by_F%C3%A9lix_Nadar_2.jpg" alt="Bernhardt photographed by Nadar (1865)" class="img-circle img-fluid center-block">
+    
+  <p class="bg-info text-center"><em>Sarah Bernardt, one of the greatest tragedian actress, was the first international "star", doing theatrical tours around the world.</em></p>
+  
+<ul>
+  <div class="chrono">
+  <li><b>1862</b> : Debut at the Comedie Francaise, playing the title role of Racine's Iphigénie.</li><br></div>
+  <div class="chrono"><li><b>1870</b> : During the French-Prussian war, the actress transformed the Odeon theater (no longer in use) into an hospital. </li><br></div>
+  <div class="chrono"><li><b>1871-1878</b> : Her rising success in plays like Victor Hugo's Ruy Blas or Hernani, reaches London, where she performs (in French) in front of a bewitched audience.</li></div><br>
+  <div class="chrono"><li><b>1880</b> : Her success in London and her disagreements with her theater director in Paris made her leave the French capital. She now has her own troupe and performs in England and the United States. She then tours sucessfully all across Europe.</li><br></div>
+  <div class="chrono"><li><b>1886-1892</b> : Sarah Bernardt goes on several World Tours. In every city she visited, she was feted and cheered by audiences. North and South America, Scandinavia, Russia, Australia: the actress visited the whole world, bringing back extravagant souvenirs and a menagerie full of exotics animals. But she also suffered an painful injury to her knee when she leaped off the parapet of the Castello Sant' Angelo in La Tosca.</li><br></div>
+  <div class="chrono"><li><b>1893-1900</b> : She returns to Paris for a while, creating her own theater.</li><br></div>
+  <div class="chrono"><li><b>1901-1913</b> : She goes back on tour again, but this time to say goodbye. Her knee is still painful, sometimes making her faint during a performance, but she refuses to interrupt her tour to rest.</li><br></div>
+  <div class="chrono"><li><b>22 February 1915</b> : As WWI begins, gangrene had developed on her injured leg. A surgeon amputated Sarah Bernardt's leg almost to the hip. Refusing any prosthetics, she stills performs, seated, in front of the troops in Verdun or Argonne.</li><br></div>
+  <div class="chrono"><li><b>1919-1923</b> : Sarah Bernardt becames one of the first famous actresses to star in moving pictures. Her first movie performace, "le duel d'Hamlet", was even sound-recorded, making it one of the first examples of a sound film. She was about to shoot a movie with Sacha Guitry when she died, at 79.</li></div>
+   </ul>
+   <blockquote class="blockquote"><p class="bg-info lead">
+   "Permanent success cannot be achieved except by incessant intellectual labour, always inspired by the ideal." <em>Sarah Bernadt</em></p> </blockquote>
+  <p class="text-center text-warning"><a href="https://en.wikipedia.org/wiki/Sarah_Bernhardt" target="_blank">Click here</a> for more informations on Sarah Bernardt </p>
+  
+</body>
