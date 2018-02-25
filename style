@@ -2,3 +2,6 @@ p {
   margin: 50px;
   padding: 25px;
 }
+h1 {
+	font-size: 2rem;
+}
