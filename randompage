@@ -1,11 +1,11 @@
 <body>
 <h1 class="text-primary text-center">Sarah Bernardt<br><h1>
 <h3 class="text-primary text-center">1844-1923</h3>
-<h2 class="text-warning text-center">The queen of the pose and the princess of the gesture</h2> 
+<h2 class="text-warning text-center">The queen of the pose and the princess of the gesture</h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Sarah_Bernhardt_by_F%C3%A9lix_Nadar_2.jpg/269px-Sarah_Bernhardt_by_F%C3%A9lix_Nadar_2.jpg" alt="Bernhardt photographed by Nadar (1865)" class="img-circle img-fluid center-block">
-    
+
   <p class="bg-info text-center"><em>Sarah Bernardt, one of the greatest tragedian actress, was the first international "star", doing theatrical tours around the world.</em></p>
-  
+  <p>HELLO</p>
 <ul>
   <div class="chrono">
   <li><b>1862</b> : Debut at the Comedie Francaise, playing the title role of Racine's Iphigénie.</li><br></div>
@@ -21,5 +21,5 @@
    <blockquote class="blockquote"><p class="bg-info lead">
    "Permanent success cannot be achieved except by incessant intellectual labour, always inspired by the ideal." <em>Sarah Bernadt</em></p> </blockquote>
   <p class="text-center text-warning"><a href="https://en.wikipedia.org/wiki/Sarah_Bernhardt" target="_blank">Click here</a> for more informations on Sarah Bernardt </p>
-  
+
 </body>
